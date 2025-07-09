@@ -5,10 +5,10 @@
 
 ## 📬 Контакты
 📞 +7 (915) 396-39-31  
-[![Gmail](https://img.shields.io/badge/Gmail-lyashenkovaai@gmail.com-red?logo=gmail&logoColor=white)](mailto:lyashenkovaai@gmail.com)  
-[![Telegram](https://img.shields.io/badge/Telegram-@lyashenA-26A5E4?logo=telegram&logoColor=white)](https://t.me/lyashenA)  
-[![GitHub](https://img.shields.io/badge/GitHub-LyashenA-181717?logo=github&logoColor=white)](https://github.com/LyashenA)  
-[![Yandex Mail](https://img.shields.io/badge/Yandex-Mail-yellow?logo=yandex&logoColor=white)](mailto:lyashenkova.a@yandex.ru)
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Gmail" width="16" height="16" style="vertical-align:middle"/> lyashenkovaai@gmail.com  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/yandex.svg" alt="Yandex Mail" width="16" height="16" style="vertical-align:middle"/> lyashenkova.a@yandex.ru  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" alt="Telegram" width="16" height="16" style="vertical-align:middle"/> @lyashenA  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="16" height="16" style="vertical-align:middle"/> LyashenA
 
 ---
 
