@@ -2,11 +2,13 @@
 
 **Frontend Developer**  
 Москва, Россия  
+
+## 📬 Контакты
 📞 +7 (915) 396-39-31  
-📧 lyashenkovaai@gmail.com 
-📧 lyashenkova.a@yandex.ru
-💬 [Telegram](https://t.me/lyashenA)  
-💻 [GitHub](https://github.com/LyashenA)  
+[![Gmail](https://img.shields.io/badge/Gmail-lyashenkovaai@gmail.com-red?logo=gmail&logoColor=white)](mailto:lyashenkovaai@gmail.com)  
+[![Telegram](https://img.shields.io/badge/Telegram-@lyashenA-26A5E4?logo=telegram&logoColor=white)](https://t.me/lyashenA)  
+[![GitHub](https://img.shields.io/badge/GitHub-LyashenA-181717?logo=github&logoColor=white)](https://github.com/LyashenA)  
+[![Yandex Mail](https://img.shields.io/badge/Yandex-Mail-yellow?logo=yandex&logoColor=white)](mailto:lyashenkovaai@yandex.ru)
 
 ---
 
