@@ -2,10 +2,10 @@
 
 **Frontend Developer**  
 Москва, Россия  
-📞 +7 (915) 396-39-31  
-📧 lyashenkovaai@gmail.com
-💬 [Telegram](https://t.me/lyashenA)  
-💻 [GitHub](https://github.com/LyashenA)  
+    📞 +7 (915) 396-39-31  
+    📧 lyashenkovaai@gmail.com
+    💬 [Telegram](https://t.me/lyashenA)  
+    💻 [GitHub](https://github.com/LyashenA)  
 
 ---
 
